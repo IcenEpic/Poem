@@ -5,6 +5,7 @@ Dancer fish
 Boxer fish
 King fish
 Garbage fish
+Shell fish
 Farmer fish
 Business fish
 

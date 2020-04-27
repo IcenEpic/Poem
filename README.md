@@ -1,2 +1,2 @@
 # Poem
-This is a poem style repository
+This repostory is for my poem

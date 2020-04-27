@@ -6,3 +6,6 @@ Boxer fish
 King fish
 Garbage fish
 Farmer fish
+Business fish
+
+These are some types of fish
